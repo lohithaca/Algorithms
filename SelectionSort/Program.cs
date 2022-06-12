@@ -16,6 +16,7 @@ namespace SelectionSort
             for (int i = 0; i < sortedArray.Length; i++)
             {
                 Console.Write(sortedArray[i]+",");
+		Console.Write(sortedArray[i]+",");
             }
             
         }
